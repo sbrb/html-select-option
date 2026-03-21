@@ -177,7 +177,6 @@
 <form>
 
   <p>
-    <label for="pet-select">Select your companion</label>
     <select id="pet-select">
       <option value="">Choose a pet...</option>
       <option value="cat">Cat</option>
